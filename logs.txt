@@ -97,3 +97,5 @@
 2024-06-13T18:20:07.072Z GET /api/v1/users Query Params: {}
 2024-06-13T18:20:31.733Z DELETE /api/v1/cards/666b31dab6cfba935c095951 Query Params: {}
 2024-06-13T18:23:11.717Z GET /api/v1/users/664c7ec1bc5cab8e1c4de123 Query Params: {}
+2024-06-13T18:47:53.275Z GET / Query Params: {}
+2024-06-13T18:47:53.384Z GET /favicon.ico Query Params: {}
