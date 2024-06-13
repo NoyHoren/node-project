@@ -1,12 +1,10 @@
-# Eliyahu Levi Project
-
-Email: [eliyahuofficialmusic@gmail.com](mailto:eliyahuofficialmusic@gmail.com)  
-LinkedIn: [linkedin.com/in/eliyahuofficial](https://www.linkedin.com/in/eliyahuofficial/)  
+# Noy Horen Project  
 
 
-## Project: Express.js Server with MongoDB
+## Business Cards API with User Login System
+### Overview
 
-This project is a reliable and scalable server built with Express.js. It manages user and card data, using MongoDB for storage. The server includes middleware for logging, error handling, and cross-origin resource sharing (CORS). It's designed to be easy to maintain and expand, making it suitable for various uses.
+This project is a Node.js Express application that provides a user login system along with a RESTful API for managing business cards. Each card represents a business and includes "like" functionality. The project includes all CRUD (Create, Read, Update, Delete) operations for managing the cards.
 
 ## Features
 
@@ -50,7 +48,6 @@ This project is a reliable and scalable server built with Express.js. It manages
 3. Run the Server: Use `npm run dev` to start the server on port 8080.
 4. Use the (http://localhost:8080) link for API Documentation.
 
-## Copyright © 2024 Eliyahu Levi All Rights Reserved.
 
 
 
