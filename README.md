@@ -1,6 +1,5 @@
 # Noy Horen Project  
 
-
 ## Business Cards API with User Login System
 ### Overview
 
@@ -28,7 +27,7 @@ This project is a Node.js Express application that provides a user login system 
    - Logging: HTTP request logging using `morgan` for easier debugging and monitoring.
    - Environment Variables: Configuration management using `dotenv`.
 
-### 5.Validation and Error Handling
+### 5.Error Handling
    - Input Validation: Request data validation using Joi to ensure data integrity.
    - Centralized Error Handling: Consistent error responses and error logging.
 
@@ -36,8 +35,7 @@ This project is a Node.js Express application that provides a user login system 
    - Typescript: TypeScript is used for type checking and improved code quality.
    - Chalk and Figlet: Used for enhancing console output and server start messages.
 
-### 7.Additional Tools
-   - Underscore: Utility library for data manipulation and functional programming.
+### 7.Hashing & authenticating
    - bcrypt: Secure password hashing.
    - jsonwebtoken: JWT-based authentication.
 
@@ -46,7 +44,6 @@ This project is a Node.js Express application that provides a user login system 
 1. Install Dependencies: Run `npm i` to install all required dependencies.
 2. Set Up Environment Variables: Create a `.env` file based on the provided `.env.example` and configure your environment variables.
 3. Run the Server: Use `npm run dev` to start the server on port 8080.
-4. Use the (http://localhost:8080) link for API Documentation.
 
 
 
