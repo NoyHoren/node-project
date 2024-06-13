@@ -1,7 +1,4 @@
-# Noy Horen Project
-
-Email:noyhoren@gmail.com  
-LinkedIn: [linkedin.com/in/eliyahuofficial](https://www.linkedin.com/in/eliyahuofficial/)  
+# Noy Horen Project  
 
 
 ## Business Cards API with User Login System
@@ -51,7 +48,6 @@ This project is a Node.js Express application that provides a user login system 
 3. Run the Server: Use `npm run dev` to start the server on port 8080.
 4. Use the (http://localhost:8080) link for API Documentation.
 
-## Copyright © 2024 Eliyahu Levi All Rights Reserved.
 
 
 
